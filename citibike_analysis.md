@@ -28,4 +28,10 @@ Although it is not displayed in the tableau presentation the city of Des Moines 
 
 Moving onto the big picture, we see the comparison of gender diversity in Des Moines and New York City. This comparison is used to show that the citi bike program can be as successful in Des Moines as it is in NYC. 
 
-Both Cities have higher female representation in their populations and the difference is not significant enough to result in a different outcome for bicycle usage frequency. The female percentage in the population of Des Moines is 50.4% which is actually lower than New York's female percentage in the population which is 52.2%. Understanding the gender diversity is important in this case because the majority users of the citi bike program are males. Although the difference between Des Moines and New York City is not significant, it is important to note that Des Moines had higher percentage of Male in the population compared to NYC. This means that the proposal of the citi bike program is more appealing to the population of Des Moines because of the higher presence of major consumers. 
+Both Cities have higher female representation in their populations and the difference is not significant enough to result in a different outcome for bicycle usage frequency. The female percentage in the population of Des Moines is 50.4% which is actually lower than New York's female percentage in the population which is 52.2%. Understanding the gender diversity is important in this case because the majority users of the citi bike program are males. Although the difference between Des Moines and New York City is not significant, it is important to note that Des Moines had higher percentage of Male in the population compared to NYC. This means that the proposal of the citi bike program is more appealing to the population of Des Moines because of the higher presence of major consumers.
+
+## List of References
+1. 2019 August Citi Bike Data
+2. US Census Data: New York City
+3. US Census Data: Des Moines
+4. https://www.catchdesmoines.com/things-to-do/?skip=0&sort=qualityScore&subcatids=2210&regionids=123
