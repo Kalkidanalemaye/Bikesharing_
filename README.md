@@ -25,7 +25,9 @@ The goals of this challenge include:
 
 1. August 2019 citi bike data
 2. US Census Data
+
   a. New York City
+  
   b. Des Moines
   
 ### Story Navigation
