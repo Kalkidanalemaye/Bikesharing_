@@ -2,7 +2,7 @@
 
 ### NYC Citi Bike Analysis
 
-To understand this analysis please follow the tableau story that can be found here: [Proposal](https://public.tableau.com/profile/kalkidan.alemayehu#!/vizhome/BikesharingDataProposal/Story1).
+To understand this analysis please follow the tableau story that can be found here: [Proposal for Challenge in Tableau](https://public.tableau.com/profile/kalkidan.alemayehu#!/vizhome/BikesharingDataProposal/Story1).
 
 Firstly, in order to implement the Citi Bike business in Des Moines it is important to understand the business structure in New York City. I use Citi bike data for the month of August 2019 to display the information in regards to bike usage. According to the viti bike data the number of records is 2,344,224. This number symbolizes the total usage of bicycles within the month of August only. 
 
