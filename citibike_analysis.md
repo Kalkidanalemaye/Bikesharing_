@@ -47,8 +47,9 @@ Both Cities have higher female representation in their populations and the diffe
 1. 2019 August Citi Bike Data
 2. US Census Data: New York City (https://www.census.gov/quickfacts/fact/table/newyorkcitynewyork,desmoinescityiowa/PST045219)
 3. US Census Data: Des Moines (https://www.census.gov/quickfacts/desmoinescityiowa)
-4. https://www.catchdesmoines.com/things-to-do/?skip=0&sort=qualityScore&subcatids=2210&regionids=123
-5. http://iowabikeroutes.com/road/
-6. http://iowabikeroutes.com/city/overalls-all-over/
+4. Excel File Created for the combination of New York City Census data and Des Moines Census data. https://github.com/Kalkidanalemaye/Bikesharing_/blob/master/Tableau%20citi%20data.hyper
+5. https://www.catchdesmoines.com/things-to-do/?skip=0&sort=qualityScore&subcatids=2210&regionids=123
+6. http://iowabikeroutes.com/road/
+7. http://iowabikeroutes.com/city/overalls-all-over/
 
 
